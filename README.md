@@ -1,10 +1,10 @@
-# 👋 Hola! Mi nombre es Dan ✨
+# Hola! Mi nombre es Dan ✨
 
 **Desarrollador Web 💻**
 
 <img src="./img/banner.jpg" borderRadius='1rem' boxShadow='0 6px 18px rgba(0,0,0,0.3)'>
 
-💬 Soy una persona muy creativa e inquieta. Apasionado de los videojuegos y la música.
+💬 Soy una persona muy creativa e inquieta. Apasionado de los videojuegos y la música. <br>
 🌱 Actualmente me encuentro estudiando Desarrollo de Aplicaciones Web, un Ciclo de Grado Superior de Formación Profesional.
 
 ## Contacto
