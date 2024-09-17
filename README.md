@@ -1,5 +1,15 @@
-## Hi there 👋
+# 👋 Hola! Mi nombre es Dan ✨
 
+**Desarrollador Web 💻**
+
+<img src="./img/banner.jpg" borderRadius='1rem' boxShadow='0 6px 18px rgba(0,0,0,0.3)'>
+
+💬 Soy una persona muy creativa e inquieta. Apasionado de los videojuegos y la música.
+🌱 Actualmente me encuentro estudiando Desarrollo de Aplicaciones Web, un Ciclo de Grado Superior de Formación Profesional.
+
+## Contacto
+
+[![Email](https://img.shields.io/badge/MAIL-red?style=for-the-badge)](mailto:dancruz.violin@gmail.com)
 <!--
 **dancrv/dancrv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
