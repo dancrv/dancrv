@@ -9,6 +9,9 @@
 
 ## Contacto
 [![Email](https://img.shields.io/badge/MAIL-%23EA4335?style=for-the-badge&logo=Gmail&logoColor=%23fff&color=%23EA4335)](mailto:dancruz.violin@gmail.com)
+
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=%23fff&color=%23E4405F)](https://www.instagram.com/dan.kr.v)
+
 <!--
 **dancrv/dancrv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
