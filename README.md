@@ -12,6 +12,7 @@
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=%23fff&color=%23E4405F)](https://www.instagram.com/dan.kr.v)
 [![Twitch](https://img.shields.io/badge/TWITCH-%239146FF?style=for-the-badge&logo=Twitch&logoColor=%23fff&color=%239146FF)](https://www.twitch.tv/kim_swan)
 
+## Tecnologías más usadas
 <!--
 **dancrv/dancrv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
