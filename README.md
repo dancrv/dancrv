@@ -8,9 +8,7 @@
 🌱 Actualmente me encuentro estudiando Desarrollo de Aplicaciones Web, un Ciclo de Grado Superior de Formación Profesional.
 
 ## Contacto
-
-[![Email]([https://img.shields.io/badge/MAIL-red?style=for-the-badge](https://img.shields.io/badge/MAIL-%23EA4335?style=for-the-badge&logo=Gmail&logoColor=%23fff&color=%23EA4335
-))](mailto:dancruz.violin@gmail.com)
+[![Email](https://img.shields.io/badge/MAIL-%23EA4335?style=for-the-badge&logo=Gmail&logoColor=%23fff&color=%23EA4335)(mailto:dancruz.violin@gmail.com)]
 <!--
 **dancrv/dancrv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
