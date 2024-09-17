@@ -2,7 +2,7 @@
 
 **Desarrollador Web 💻**
 
-<img src="./img/banner.jpg" borderRadius='1rem' boxShadow='0 6px 18px rgba(0,0,0,0.3)'>
+<img src="./img/banner.png" borderRadius='1rem' boxShadow='0 6px 18px rgba(0,0,0,0.3)'>
 
 💬 Soy una persona muy creativa e inquieta. Apasionado de los videojuegos y la música. <br>
 🌱 Actualmente me encuentro estudiando Desarrollo de Aplicaciones Web, un Ciclo de Grado Superior de Formación Profesional.
