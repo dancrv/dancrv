@@ -13,7 +13,8 @@
 [![Twitch](https://img.shields.io/badge/TWITCH-%239146FF?style=for-the-badge&logo=Twitch&logoColor=%23fff&color=%239146FF)](https://www.twitch.tv/kim_swan)
 
 ## ⚡ Tecnologías más usadas
-![Static Badge](https://img.shields.io/badge/Kotlin-%238f2f67?style=for-the-badge&logo=Kotlin&logoColor=C82F81&color=19191C)
+![Kotlin](https://img.shields.io/badge/Kotlin-white?style=for-the-badge&logo=Kotlin&logoColor=C11EF0&color=19191C)
+
 
 <!--
 **dancrv/dancrv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
