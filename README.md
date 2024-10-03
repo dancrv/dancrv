@@ -14,6 +14,11 @@
 
 ## ⚡ Tecnologías más usadas
 ![Kotlin](https://img.shields.io/badge/Kotlin-white?style=for-the-badge&logo=Kotlin&logoColor=C11EF0&color=19191C)
+![Java](https://img.shields.io/badge/Java-white?style=for-the-badge&logo=Java&logoColor=white&color=f89b24)
+![PHP](https://img.shields.io/badge/PHP-white?style=for-the-badge&logo=Php&logoColor=white&color=%236586bd)
+![JavaScript](https://img.shields.io/badge/Javascript-white?style=for-the-badge&logo=Javascript&logoColor=%23f0dc55%20&color=19191C)
+
+
 
 
 <!--
